@@ -1,1 +1,2 @@
-# Entrega-Final-do-Projeto-seed-tech
+# bancoDeDados_SeedTech
+Banco de dados do Projeto integrador

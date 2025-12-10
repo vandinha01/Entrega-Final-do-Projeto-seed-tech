@@ -1,0 +1,1 @@
+echo Maven Wrapper placeholder

@@ -1,0 +1,4 @@
+com\seedtech_pi\controller\ArmazemController.class
+com\seedtech_pi\model\Armazem.class
+com\seedtech_pi\repository\ArmazemRepository.class
+com\seedtech_pi\SeedtechPiApplication.class
