@@ -1,1 +1,0 @@
-README final. Veja instruções no arquivo original.
